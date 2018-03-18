@@ -75,6 +75,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton5 = findViewById(R.id.button5);
+        mButton5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), GraphicsFrameAnimationActivity.class));
+            }
+        });
+
 
     }
 
