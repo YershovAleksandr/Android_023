@@ -83,6 +83,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton6 = findViewById(R.id.button6);
+        mButton6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), GraphicsPaintActivity.class));
+            }
+        });
+
 
     }
 

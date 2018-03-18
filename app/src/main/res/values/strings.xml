@@ -9,6 +9,7 @@
     <string name="app_graphicscanvasbubble">Graphics Canvas Bubble</string>
     <string name="app_graphicscanvasbubblesv">Graphics Canvas Surface View</string>
     <string name="app_graphicsframeanimation">Graphics Frame Animation</string>
+    <string name="app_graphicspaint">Graphics Paint Activity</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -16,7 +17,7 @@
     <string name="btn_txt_4">Graphics Canvas Bubble Surface View</string>
     <string name="btn_txt_5">Graphics Frame Animation</string>
 
-    <string name="btn_txt_6">Button text 6</string>
+    <string name="btn_txt_6">Graphics Paint</string>
     <string name="btn_txt_7">Button text 7</string>
     <string name="btn_txt_8">Button text 8</string>
     <string name="btn_txt_9">Button text 9</string>
@@ -38,5 +39,8 @@
 
     <string name="bubble_desc">Bubble</string>
     <string name="animation_desc">animation</string>
+
+    <string name="text_literal">Text</string>
+    <string name="long_text">This is a lot of Text. This is even more Text.</string>
 
 </resources>

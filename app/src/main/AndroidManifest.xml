@@ -24,6 +24,7 @@
         <activity android:name=".GraphicsCanvasBubble" android:label="@string/app_graphicscanvasbubble" />
         <activity android:name=".GraphicsCanvasBubbleSurfaceView" android:label="@string/app_graphicscanvasbubblesv" />
         <activity android:name=".GraphicsFrameAnimationActivity" android:label="@string/app_graphicsframeanimation" />
+        <activity android:name=".GraphicsPaintActivity" android:label="@string/app_graphicspaint" />
     </application>
 
 </manifest>
