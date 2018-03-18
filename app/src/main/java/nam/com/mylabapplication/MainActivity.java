@@ -67,6 +67,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton4 = findViewById(R.id.button4);
+        mButton4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), GraphicsCanvasBubbleSurfaceView.class));
+            }
+        });
+
 
     }
 

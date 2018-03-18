@@ -22,6 +22,7 @@
         <activity android:name=".BubbleActivity" android:label="@string/app_graphicsbubbleprogram" />
         <activity android:name=".bubbleprogramxml" android:label="@string/app_graphicsbubblexml" />
         <activity android:name=".GraphicsCanvasBubble" android:label="@string/app_graphicscanvasbubble" />
+        <activity android:name=".GraphicsCanvasBubbleSurfaceView" android:label="@string/app_graphicscanvasbubblesv" />
     </application>
 
 </manifest>

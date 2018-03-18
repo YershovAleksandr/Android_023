@@ -7,11 +7,12 @@
     <string name="app_graphicsbubbleprogram">Graphics Bubble Program</string>
     <string name="app_graphicsbubblexml">Graphics Bubble Xml</string>
     <string name="app_graphicscanvasbubble">Graphics Canvas Bubble</string>
+    <string name="app_graphicscanvasbubblesv">Graphics Canvas Surface View</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
     <string name="btn_txt_3">Graphics Canvas Bubble</string>
-    <string name="btn_txt_4">Button text 4</string>
+    <string name="btn_txt_4">Graphics Canvas Bubble Surface View</string>
     <string name="btn_txt_5">Button text 5</string>
 
     <string name="btn_txt_6">Button text 6</string>
