@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView mTextMessage;
 
-    private Button mButton1;
-
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
 
@@ -45,13 +43,22 @@ public class MainActivity extends AppCompatActivity {
         BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
         navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
 
-        mButton1 = findViewById(R.id.button1);
+        Button mButton1 = findViewById(R.id.button1);
         mButton1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getBaseContext(), BubbleActivity.class));
             }
         });
+
+        Button mButton2 = findViewById(R.id.button2);
+        mButton2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), bubbleprogramxml.class));
+            }
+        });
+
     }
 
 }
