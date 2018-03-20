@@ -15,6 +15,7 @@
     <string name="app_graphictransitiondrawable">Graphics Transition Drawable</string>
     <string name="app_graphicstweenanimation">Graphics Tween Animation</string>
     <string name="app_graphicsvalueanimator">Graphics Value Animator</string>
+    <string name="app_graphicsviewpropertyanimator">Graphics View Property Animator</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -29,7 +30,7 @@
     <string name="btn_txt_10">Graphics Tween Animation</string>
 
     <string name="btn_txt_11">Graphics Value Animator</string>
-    <string name="btn_txt_12">Button text 12</string>
+    <string name="btn_txt_12">Graphics View Property Animator</string>
     <string name="btn_txt_13">Button text 13</string>
     <string name="btn_txt_14">Button text 14</string>
     <string name="btn_txt_15">Button text 15</string>

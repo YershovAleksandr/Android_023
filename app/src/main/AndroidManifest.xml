@@ -30,6 +30,7 @@
         <activity android:name=".TransitionDrawableActivity" android:label="@string/app_graphictransitiondrawable" />
         <activity android:name=".GraphicsTweenAnimationActivity" android:label="@string/app_graphicstweenanimation" />
         <activity android:name=".ValueAnimatorActivity" android:label="@string/app_graphicsvalueanimator" />
+        <activity android:name=".GraphicsViewPropertyAnimatorActivity" android:label="@string/app_graphicsviewpropertyanimator" />
     </application>
 
 </manifest>

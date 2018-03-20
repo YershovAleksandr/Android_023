@@ -131,6 +131,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton12 = findViewById(R.id.button12);
+        mButton12.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), GraphicsViewPropertyAnimatorActivity.class));
+            }
+        });
+
 
     }
 
