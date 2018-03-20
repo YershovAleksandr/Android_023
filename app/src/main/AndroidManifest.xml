@@ -29,6 +29,7 @@
         <activity android:name=".ShapeDrawActivityXml" android:label="@string/app_graphicshapedrawxml" />
         <activity android:name=".TransitionDrawableActivity" android:label="@string/app_graphictransitiondrawable" />
         <activity android:name=".GraphicsTweenAnimationActivity" android:label="@string/app_graphicstweenanimation" />
+        <activity android:name=".ValueAnimatorActivity" android:label="@string/app_graphicsvalueanimator" />
     </application>
 
 </manifest>

@@ -123,6 +123,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton11 = findViewById(R.id.button11);
+        mButton11.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), ValueAnimatorActivity.class));
+            }
+        });
+
 
     }
 

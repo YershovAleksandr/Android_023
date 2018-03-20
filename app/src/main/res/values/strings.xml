@@ -14,6 +14,7 @@
     <string name="app_graphicshapedrawxml">Graphics Shape Draw Xml</string>
     <string name="app_graphictransitiondrawable">Graphics Transition Drawable</string>
     <string name="app_graphicstweenanimation">Graphics Tween Animation</string>
+    <string name="app_graphicsvalueanimator">Graphics Value Animator</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -27,7 +28,7 @@
     <string name="btn_txt_9">Graphics Transition Drawable</string>
     <string name="btn_txt_10">Graphics Tween Animation</string>
 
-    <string name="btn_txt_11">Button text 11</string>
+    <string name="btn_txt_11">Graphics Value Animator</string>
     <string name="btn_txt_12">Button text 12</string>
     <string name="btn_txt_13">Button text 13</string>
     <string name="btn_txt_14">Button text 14</string>
@@ -50,5 +51,7 @@
     <string name="cyan_circle">Cyan Circle</string>
     <string name="magenta_circle">Magenta Circle</string>
     <string name="fading_image_desc">Fading Image</string>
+
+    <string name="button_label">Animate</string>
 
 </resources>
