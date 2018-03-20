@@ -26,6 +26,7 @@
         <activity android:name=".GraphicsFrameAnimationActivity" android:label="@string/app_graphicsframeanimation" />
         <activity android:name=".GraphicsPaintActivity" android:label="@string/app_graphicspaint" />
         <activity android:name=".ShapeDrawActivity" android:label="@string/app_graphicshapedraw" />
+        <activity android:name=".ShapeDrawActivityXml" android:label="@string/app_graphicshapedrawxml" />
     </application>
 
 </manifest>

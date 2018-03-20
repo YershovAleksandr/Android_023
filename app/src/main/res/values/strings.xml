@@ -11,6 +11,7 @@
     <string name="app_graphicsframeanimation">Graphics Frame Animation</string>
     <string name="app_graphicspaint">Graphics Paint Activity</string>
     <string name="app_graphicshapedraw">Graphics Shape Draw</string>
+    <string name="app_graphicshapedrawxml">Graphics Shape Draw Xml</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -20,7 +21,7 @@
 
     <string name="btn_txt_6">Graphics Paint</string>
     <string name="btn_txt_7">Graphics Shape Draw</string>
-    <string name="btn_txt_8">Button text 8</string>
+    <string name="btn_txt_8">Graphics Shape Draw Xml</string>
     <string name="btn_txt_9">Button text 9</string>
     <string name="btn_txt_10">Button text 10</string>
 
@@ -43,5 +44,8 @@
 
     <string name="text_literal">Text</string>
     <string name="long_text">This is a lot of Text. This is even more Text.</string>
+
+    <string name="cyan_circle">Cyan Circle</string>
+    <string name="magenta_circle">Magenta Circle</string>
 
 </resources>
