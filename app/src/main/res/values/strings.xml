@@ -13,6 +13,7 @@
     <string name="app_graphicshapedraw">Graphics Shape Draw</string>
     <string name="app_graphicshapedrawxml">Graphics Shape Draw Xml</string>
     <string name="app_graphictransitiondrawable">Graphics Transition Drawable</string>
+    <string name="app_graphicstweenanimation">Graphics Tween Animation</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -24,7 +25,7 @@
     <string name="btn_txt_7">Graphics Shape Draw</string>
     <string name="btn_txt_8">Graphics Shape Draw Xml</string>
     <string name="btn_txt_9">Graphics Transition Drawable</string>
-    <string name="btn_txt_10">Button text 10</string>
+    <string name="btn_txt_10">Graphics Tween Animation</string>
 
     <string name="btn_txt_11">Button text 11</string>
     <string name="btn_txt_12">Button text 12</string>
