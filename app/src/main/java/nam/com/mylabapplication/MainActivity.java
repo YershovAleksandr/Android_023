@@ -91,6 +91,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton7 = findViewById(R.id.button7);
+        mButton7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), ShapeDrawActivity.class));
+            }
+        });
+
 
     }
 
