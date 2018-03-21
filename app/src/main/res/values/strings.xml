@@ -24,6 +24,7 @@
     <string name="app_musicservice">Music Service</string>
     <string name="app_indicatetouchlocation">Indicate Touch Location</string>
     <string name="app_gestures">Gestures</string>
+    <string name="app_viewflippertest">View Flipper Test</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -49,7 +50,7 @@
     <string name="btn_txt_19">Indicate Touch Location</string>
     <string name="btn_txt_20">Gestures</string>
 
-    <string name="btn_txt_21">Button text 21</string>
+    <string name="btn_txt_21">View Flipper Test</string>
 
     <string name="bubble_desc">Bubble</string>
     <string name="animation_desc">animation</string>

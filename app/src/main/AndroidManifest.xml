@@ -46,6 +46,7 @@
         <activity android:name=".MusicServiceClient" android:label="@string/app_musicservice" />
         <activity android:name=".IndicateTouchLocationActivity" android:label="@string/app_indicatetouchlocation" />
         <activity android:name=".GesturesActivity" android:label="@string/app_gestures" />
+        <activity android:name=".ViewFlipperTestActivity" android:label="@string/app_viewflippertest" />
 
         <service android:name=".MusicService" />
     </application>

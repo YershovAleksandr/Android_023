@@ -9,4 +9,6 @@
     <dimen name="padding">20dp</dimen>
 
     <dimen name="translation">100dp</dimen>
+
+    <dimen name="text_size">350sp</dimen>
 </resources>
