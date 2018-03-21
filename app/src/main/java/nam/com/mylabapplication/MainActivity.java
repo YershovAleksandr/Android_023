@@ -163,6 +163,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton16 = findViewById(R.id.button16);
+        mButton16.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), AudioVideoRingtoneManagerActivity.class));
+            }
+        });
+
 
 
     }
