@@ -195,6 +195,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton20 = findViewById(R.id.button20);
+        mButton20.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), GesturesActivity.class));
+            }
+        });
+
 
 
     }

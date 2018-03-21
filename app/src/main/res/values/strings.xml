@@ -23,6 +23,7 @@
     <string name="app_videoplay">Video Play</string>
     <string name="app_musicservice">Music Service</string>
     <string name="app_indicatetouchlocation">Indicate Touch Location</string>
+    <string name="app_gestures">Gestures</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -46,7 +47,7 @@
     <string name="btn_txt_17">Video Play</string>
     <string name="btn_txt_18">Music Service</string>
     <string name="btn_txt_19">Indicate Touch Location</string>
-    <string name="btn_txt_20">Button text 20</string>
+    <string name="btn_txt_20">Gestures</string>
 
     <string name="btn_txt_21">Button text 21</string>
 
