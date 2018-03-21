@@ -179,6 +179,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton18 = findViewById(R.id.button18);
+        mButton18.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), MusicServiceClient.class));
+            }
+        });
+
 
 
     }
