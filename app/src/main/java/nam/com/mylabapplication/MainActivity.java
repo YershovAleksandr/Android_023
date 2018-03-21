@@ -187,6 +187,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton19 = findViewById(R.id.button19);
+        mButton19.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), IndicateTouchLocationActivity.class));
+            }
+        });
+
 
 
     }

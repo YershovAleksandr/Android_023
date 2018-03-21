@@ -44,6 +44,7 @@
         <activity android:name=".AudioVideoRingtoneManagerActivity" android:label="@string/app_ringtonemanager" />
         <activity android:name=".AudioVideoVideoPlayActivity" android:label="@string/app_videoplay" />
         <activity android:name=".MusicServiceClient" android:label="@string/app_musicservice" />
+        <activity android:name=".IndicateTouchLocationActivity" android:label="@string/app_indicatetouchlocation" />
 
         <service android:name=".MusicService" />
     </application>
