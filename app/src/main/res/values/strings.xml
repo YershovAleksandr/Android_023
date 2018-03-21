@@ -18,6 +18,7 @@
     <string name="app_graphicsviewpropertyanimator">Graphics View Property Animator</string>
     <string name="app_audiovideoaudiomanager">Audio Video Audio Manager</string>
     <string name="app_audiovideoaudiorecording">Audio Video Audio Recording</string>
+    <string name="app_audiovideocameraactivity">Audio Video Camera</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -35,7 +36,7 @@
     <string name="btn_txt_12">Graphics View Property Animator</string>
     <string name="btn_txt_13">Audio Video Audio Manager</string>
     <string name="btn_txt_14">Audio Video Audio Recording</string>
-    <string name="btn_txt_15">Button text 15</string>
+    <string name="btn_txt_15">Audio Video Camera</string>
 
     <string name="btn_txt_16">Button text 16</string>
     <string name="btn_txt_17">Button text 17</string>

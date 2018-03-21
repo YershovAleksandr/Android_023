@@ -155,6 +155,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button mButton15 = findViewById(R.id.button15);
+        mButton15.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getBaseContext(), AudioVideoCameraActivity.class));
+            }
+        });
+
 
 
     }
