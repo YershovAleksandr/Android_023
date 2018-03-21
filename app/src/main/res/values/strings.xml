@@ -17,6 +17,7 @@
     <string name="app_graphicsvalueanimator">Graphics Value Animator</string>
     <string name="app_graphicsviewpropertyanimator">Graphics View Property Animator</string>
     <string name="app_audiovideoaudiomanager">Audio Video Audio Manager</string>
+    <string name="app_audiovideoaudiorecording">Audio Video Audio Recording</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -33,7 +34,7 @@
     <string name="btn_txt_11">Graphics Value Animator</string>
     <string name="btn_txt_12">Graphics View Property Animator</string>
     <string name="btn_txt_13">Audio Video Audio Manager</string>
-    <string name="btn_txt_14">Button text 14</string>
+    <string name="btn_txt_14">Audio Video Audio Recording</string>
     <string name="btn_txt_15">Button text 15</string>
 
     <string name="btn_txt_16">Button text 16</string>
@@ -59,5 +60,11 @@
     <string name="up_string">Up</string>
     <string name="down_string">Down</string>
     <string name="play_string">Play</string>
+
+    <string name="stop_recording_string">Stop Recording</string>
+    <string name="start_recording_string">Start Recording</string>
+
+    <string name="start_playback_string">Start Playback</string>
+    <string name="stop_playback_string">Stop Playback</string>
 
 </resources>
