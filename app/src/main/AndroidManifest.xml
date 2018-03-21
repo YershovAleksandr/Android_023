@@ -42,6 +42,7 @@
         <activity android:name=".AudioRecordingActivity" android:label="@string/app_audiovideoaudiorecording" />
         <activity android:name=".AudioVideoCameraActivity" android:label="@string/app_audiovideoaudiorecording" />
         <activity android:name=".AudioVideoRingtoneManagerActivity" android:label="@string/app_ringtonemanager" />
+        <activity android:name=".AudioVideoVideoPlayActivity" android:label="@string/app_videoplay" />
     </application>
 
 </manifest>

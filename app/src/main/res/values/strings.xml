@@ -20,6 +20,7 @@
     <string name="app_audiovideoaudiorecording">Audio Video Audio Recording</string>
     <string name="app_audiovideocameraactivity">Audio Video Camera</string>
     <string name="app_ringtonemanager">Ringtone Manager</string>
+    <string name="app_videoplay">Video Play</string>
 
     <string name="btn_txt_1">Graphics Bubble Program</string>
     <string name="btn_txt_2">Graphics Bubble Xml</string>
@@ -40,7 +41,7 @@
     <string name="btn_txt_15">Audio Video Camera</string>
 
     <string name="btn_txt_16">Ringtone Manager</string>
-    <string name="btn_txt_17">Button text 17</string>
+    <string name="btn_txt_17">Video Play</string>
     <string name="btn_txt_18">Button text 18</string>
     <string name="btn_txt_19">Button text 19</string>
     <string name="btn_txt_20">Button text 20</string>
